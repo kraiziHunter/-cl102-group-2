@@ -1,0 +1,4 @@
+Name: Alym
+Group: CL102
+Favorite OS: Windows
+GitHub Username: kraizihunter
